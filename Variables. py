@@ -1,0 +1,9 @@
+name = "Poonkuzhali"
+age = 20
+height = 165.5
+student = True
+
+print(name)
+print(age)
+print(height)
+print(student)
